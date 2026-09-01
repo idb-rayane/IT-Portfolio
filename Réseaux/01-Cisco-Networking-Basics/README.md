@@ -2,7 +2,7 @@
 
 ## Certification
 
-![Certificat Cisco Networking Basics](./Certification/NetworkingBasicsCertification.pdf)
+![Certificat Cisco Networking Basics](./Certification/NetworkingBasicsCertification.png)
 
 **Formation :** Cisco Networking Basics
 **Plateforme :** Cisco Networking Academy
