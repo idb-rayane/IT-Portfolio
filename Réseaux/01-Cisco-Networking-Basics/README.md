@@ -83,10 +83,4 @@ L'objectif de cette formation était d'acquérir les bases fondamentales des ré
 
 ---
 
-# Suite du parcours
-
-Cette certification constitue une première étape dans mon parcours en **réseaux, systèmes et cybersécurité**.
-
----
-
 **Portfolio :** `IT-Portfolio`
