@@ -22,3 +22,29 @@ Créer un réseau local (LAN) fonctionnel en connectant les équipements, en con
 ## Résultat
 
 Le réseau local est entièrement opérationnel. Les postes reçoivent automatiquement leur configuration IP, communiquent avec les équipements du LAN et accèdent aux ressources distantes.
+
+---
+
+## Captures d'écrans
+
+![01](./Screenshots/01.png)
+
+---
+
+![02](./Screenshots/02.png)
+
+---
+
+![03](./Screenshots/03.png)
+
+---
+
+![04](./Screenshots/04.png)
+
+---
+
+![05](./Screenshots/05.png)
+
+---
+
+![06](./Screenshots/06.png)
