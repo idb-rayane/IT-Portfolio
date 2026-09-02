@@ -52,16 +52,16 @@ Le routeur traduit les adresses IP privées du réseau local en une adresse IP p
 
 ---
 
-![07](./Screenshots/06.png)
+![07](./Screenshots/07.png)
 
 ---
 
-![08](./Screenshots/06.png)
+![08](./Screenshots/08.png)
 
 ---
 
-![09](./Screenshots/06.png)
+![09](./Screenshots/09.png)
 
 ---
 
-![10](./Screenshots/06.png)
+![10](./Screenshots/10.png)
