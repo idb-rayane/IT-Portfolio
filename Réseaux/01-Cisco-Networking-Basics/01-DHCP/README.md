@@ -46,5 +46,7 @@ Le routeur attribue automatiquement une adresse IP aux clients via DHCP. Les tro
 
 ![05](./Screenshots/05.png)
 
+---
 
+![06](./Screenshots/06.png)
 
