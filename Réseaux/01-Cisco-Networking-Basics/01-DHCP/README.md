@@ -29,3 +29,22 @@ Le routeur attribue automatiquement une adresse IP aux clients via DHCP. Les tro
 ## Captures d'écrans
 
 ![01](./Screenshots/01.png)
+
+---
+
+![02](./Screenshots/02.png)
+
+---
+
+![03](./Screenshots/03.png)
+
+---
+
+![04](./Screenshots/04.png)
+
+---
+
+![05](./Screenshots/05.png)
+
+
+
