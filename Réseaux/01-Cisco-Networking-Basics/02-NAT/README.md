@@ -23,3 +23,45 @@ Comprendre le fonctionnement de la traduction d'adresses réseau (NAT) sur un ro
 ## Résultat
 
 Le routeur traduit les adresses IP privées du réseau local en une adresse IP publique grâce au NAT, permettant aux postes internes d'accéder aux ressources externes tout en masquant leur adresse privée.
+
+---
+
+## Captures d'écrans
+
+![01](./Screenshots/01.png)
+
+---
+
+![02](./Screenshots/02.png)
+
+---
+
+![03](./Screenshots/03.png)
+
+---
+
+![04](./Screenshots/04.png)
+
+---
+
+![05](./Screenshots/05.png)
+
+---
+
+![06](./Screenshots/06.png)
+
+---
+
+![07](./Screenshots/06.png)
+
+---
+
+![08](./Screenshots/06.png)
+
+---
+
+![09](./Screenshots/06.png)
+
+---
+
+![10](./Screenshots/06.png)
