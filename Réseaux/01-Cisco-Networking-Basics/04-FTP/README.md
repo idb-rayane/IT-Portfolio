@@ -23,3 +23,29 @@ Utiliser le protocole FTP pour transférer des fichiers entre un client et un se
 ## Résultat
 
 Les transferts de fichiers entre le client et le serveur FTP sont réalisés avec succès. Les principales commandes FTP sont maîtrisées pour administrer les fichiers à distance.
+
+---
+
+## Captures d'écrans
+
+![01](./Screenshots/01.png)
+
+---
+
+![02](./Screenshots/02.png)
+
+---
+
+![03](./Screenshots/03.png)
+
+---
+
+![04](./Screenshots/04.png)
+
+---
+
+![05](./Screenshots/05.png)
+
+---
+
+![06](./Screenshots/06.png)
