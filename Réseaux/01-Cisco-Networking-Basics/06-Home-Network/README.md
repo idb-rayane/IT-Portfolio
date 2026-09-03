@@ -26,3 +26,45 @@ Configurer un routeur sans fil domestique afin de fournir un accès Internet sé
 ## Résultat
 
 Le réseau domestique est entièrement opérationnel. Les appareils filaires et sans fil obtiennent automatiquement une adresse IP, se connectent au réseau Wi-Fi sécurisé et accèdent à Internet avec succès.
+
+---
+
+## Captures d'écrans
+
+![01](./Screenshots/01.png)
+
+---
+
+![02](./Screenshots/02.png)
+
+---
+
+![03](./Screenshots/03.png)
+
+---
+
+![04](./Screenshots/04.png)
+
+---
+
+![05](./Screenshots/05.png)
+
+---
+
+![06](./Screenshots/06.png)
+
+---
+
+![07](./Screenshots/07.png)
+
+---
+
+![08](./Screenshots/08.png)
+
+---
+
+![09](./Screenshots/09.png)
+
+---
+
+![10](./Screenshots/10.png)
